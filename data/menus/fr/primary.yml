@@ -1,4 +1,84 @@
 ---
 title: Menu principal
-items: []
+items:
+- title: Les mots
+  target: "/les-mots/"
+  kind: page
+  children:
+  - title: Algorithme
+    target: "/les-mots/algorithme/"
+    kind: page
+    children: []
+  - title: Boucle
+    target: "/les-mots/boucle/"
+    kind: page
+    children: []
+  - title: Condition
+    target: "/les-mots/condition/"
+    kind: page
+    children: []
+  - title: Directive
+    target: "/les-mots/directive/"
+    kind: page
+    children: []
+  - title: Front
+    target: "/les-mots/front/"
+    kind: page
+    children: []
+  - title: Sélecteur
+    target: "/les-mots/selecteur/"
+    kind: page
+    children: []
+  - title: Variable
+    target: "/les-mots/variable/"
+    kind: page
+    children: []
+  - title: Back
+    target: "/les-mots/back/"
+    kind: page
+    children: []
+  - title: Balisage sémantique
+    target: "/les-mots/balisage-semantique/"
+    kind: page
+    children: []
+- title: Les acronymes
+  target: "/les-acronymes/"
+  kind: page
+  children:
+  - title: HTML
+    target: "/les-acronymes/html/"
+    kind: page
+    children: []
+  - title: CSS
+    target: "/les-acronymes/css/"
+    kind: page
+    children: []
+  - title: JS
+    target: "/les-acronymes/js/"
+    kind: page
+    children: []
+- title: Actualités
+  target: "/actualites/"
+  kind: page
+  children: []
+- title: Équipe
+  target: "/equipe/"
+  kind: page
+  children:
+  - title: Équipe éditoriale
+    target: "/equipe/equipe-editoriale/"
+    kind: page
+    children: []
+- title: Organisations
+  target: "/organisations/"
+  kind: page
+  children: []
+- title: Les thématiques
+  target: "/les-thematiques/"
+  kind: page
+  children:
+  - title: Les mots du dev
+    target: "/les-thematiques/les-mots-du-dev/"
+    kind: page
+    children: []
 
