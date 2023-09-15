@@ -57,10 +57,6 @@ items:
     target: "/les-acronymes/js/"
     kind: page
     children: []
-- title: Actualités
-  target: "/actualites/"
-  kind: page
-  children: []
 - title: Équipe
   target: "/equipe/"
   kind: page
