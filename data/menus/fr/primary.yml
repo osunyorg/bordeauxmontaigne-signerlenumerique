@@ -57,14 +57,6 @@ items:
     target: "/les-acronymes/js/"
     kind: page
     children: []
-- title: Équipe
-  target: "/equipe/"
-  kind: page
-  children:
-  - title: Équipe éditoriale
-    target: "/equipe/equipe-editoriale/"
-    kind: page
-    children: []
 - title: Organisations
   target: "/organisations/"
   kind: page
