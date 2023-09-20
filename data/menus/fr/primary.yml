@@ -46,7 +46,7 @@ items:
   kind: page
   children:
   - title: Les mots du dev
-    target: "/les-thematiques/les-mots-du-dev/"
+    target: "/les-thematiques/developpement-web-et-dispositifs-interactifs/"
     kind: page
     children: []
 
