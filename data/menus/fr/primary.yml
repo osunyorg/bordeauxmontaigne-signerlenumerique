@@ -29,7 +29,7 @@ items:
     target: "/tous-les-mots/back/"
     kind: page
     children: []
-- title: Les thématiques
+- title: Les mots des parcours
   target: "/les-mots-des-parcours/"
   kind: page
   children:
