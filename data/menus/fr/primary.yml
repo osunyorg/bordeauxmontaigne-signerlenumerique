@@ -17,4 +17,8 @@ items:
     target: "/les-mots-des-parcours/strategie-de-communication-numerique-design-dexperiences/"
     kind: page
     children: []
+  - title: Création numérique
+    target: "/les-mots-des-parcours/creation-numerique/"
+    kind: page
+    children: []
 
