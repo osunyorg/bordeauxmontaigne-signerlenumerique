@@ -2,43 +2,43 @@
 title: Menu principal
 items:
 - title: Les mots
-  target: "/les-mots/"
+  target: "/tous-les-mots/"
   kind: page
   children:
   - title: Algorithme
-    target: "/les-mots/algorithme/"
+    target: "/tous-les-mots/algorithme/"
     kind: page
     children: []
   - title: Boucle
-    target: "/les-mots/boucle/"
+    target: "/tous-les-mots/boucle/"
     kind: page
     children: []
   - title: Condition
-    target: "/les-mots/condition/"
+    target: "/tous-les-mots/condition/"
     kind: page
     children: []
   - title: Directive
-    target: "/les-mots/directive/"
+    target: "/tous-les-mots/directive/"
     kind: page
     children: []
   - title: Front
-    target: "/les-mots/front/"
+    target: "/tous-les-mots/front/"
     kind: page
     children: []
   - title: Sélecteur
-    target: "/les-mots/selecteur/"
+    target: "/tous-les-mots/selecteur/"
     kind: page
     children: []
   - title: Variable
-    target: "/les-mots/variable/"
+    target: "/tous-les-mots/variable/"
     kind: page
     children: []
   - title: Back
-    target: "/les-mots/back/"
+    target: "/tous-les-mots/back/"
     kind: page
     children: []
   - title: Balisage sémantique
-    target: "/les-mots/balisage-semantique/"
+    target: "/tous-les-mots/balisage-semantique/"
     kind: page
     children: []
 - title: Les thématiques
