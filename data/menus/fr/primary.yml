@@ -5,10 +5,6 @@ items:
   target: "/tous-les-mots/"
   kind: page
   children:
-  - title: Boucle
-    target: "/tous-les-mots/boucle/"
-    kind: page
-    children: []
   - title: Condition
     target: "/tous-les-mots/condition/"
     kind: page
