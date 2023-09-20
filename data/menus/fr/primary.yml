@@ -5,10 +5,6 @@ items:
   target: "/tous-les-mots/"
   kind: page
   children:
-  - title: Sélecteur
-    target: "/tous-les-mots/selecteur/"
-    kind: page
-    children: []
   - title: Variable
     target: "/tous-les-mots/variable/"
     kind: page
