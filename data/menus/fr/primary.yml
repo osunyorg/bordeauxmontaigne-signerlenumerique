@@ -9,8 +9,8 @@ items:
   target: "/les-mots-des-parcours/"
   kind: page
   children:
-  - title: Les mots du dev
-    target: "/les-mots-des-parcours/developpement-web-et-dispositifs-interactifs/"
+  - title: Tronc commun
+    target: "/les-mots-des-parcours/tronc-commun/"
     kind: page
     children: []
 
