@@ -5,10 +5,6 @@ items:
   target: "/tous-les-mots/"
   kind: page
   children:
-  - title: Front
-    target: "/tous-les-mots/front/"
-    kind: page
-    children: []
   - title: Sélecteur
     target: "/tous-les-mots/selecteur/"
     kind: page
