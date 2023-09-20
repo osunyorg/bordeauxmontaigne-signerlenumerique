@@ -13,4 +13,8 @@ items:
     target: "/les-mots-des-parcours/tronc-commun/"
     kind: page
     children: []
+  - title: Stratégie de communication numérique & design d’expériences
+    target: "/les-mots-des-parcours/strategie-de-communication-numerique-design-dexperiences/"
+    kind: page
+    children: []
 
