@@ -29,10 +29,6 @@ items:
     target: "/tous-les-mots/back/"
     kind: page
     children: []
-  - title: Balisage sémantique
-    target: "/tous-les-mots/balisage-semantique/"
-    kind: page
-    children: []
 - title: Les thématiques
   target: "/les-mots-des-parcours/"
   kind: page
