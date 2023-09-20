@@ -46,11 +46,11 @@ items:
   kind: page
   children:
   - title: HTML
-    target: "/les-acronymes/html/"
+    target: "/les-mots/html/"
     kind: page
     children: []
   - title: CSS
-    target: "/les-acronymes/css/"
+    target: "/les-mots/css/"
     kind: page
     children: []
   - title: JS
