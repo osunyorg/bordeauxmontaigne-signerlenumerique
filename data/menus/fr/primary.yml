@@ -4,15 +4,7 @@ items:
 - title: Tous les mots
   target: "/tous-les-mots/"
   kind: page
-  children:
-  - title: Variable
-    target: "/tous-les-mots/variable/"
-    kind: page
-    children: []
-  - title: Back
-    target: "/tous-les-mots/back/"
-    kind: page
-    children: []
+  children: []
 - title: Les mots des parcours
   target: "/les-mots-des-parcours/"
   kind: page
