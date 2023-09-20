@@ -5,14 +5,6 @@ items:
   target: "/tous-les-mots/"
   kind: page
   children:
-  - title: Condition
-    target: "/tous-les-mots/condition/"
-    kind: page
-    children: []
-  - title: Directive
-    target: "/tous-les-mots/directive/"
-    kind: page
-    children: []
   - title: Front
     target: "/tous-les-mots/front/"
     kind: page
