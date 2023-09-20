@@ -41,22 +41,6 @@ items:
     target: "/les-mots/balisage-semantique/"
     kind: page
     children: []
-- title: Les acronymes
-  target: "/les-acronymes/"
-  kind: page
-  children:
-  - title: HTML
-    target: "/les-mots/html/"
-    kind: page
-    children: []
-  - title: CSS
-    target: "/les-mots/css/"
-    kind: page
-    children: []
-  - title: JS
-    target: "/les-mots/js/"
-    kind: page
-    children: []
 - title: Les thématiques
   target: "/les-thematiques/"
   kind: page
