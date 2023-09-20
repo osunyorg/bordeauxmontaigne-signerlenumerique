@@ -54,7 +54,7 @@ items:
     kind: page
     children: []
   - title: JS
-    target: "/les-acronymes/js/"
+    target: "/les-mots/js/"
     kind: page
     children: []
 - title: Les thématiques
