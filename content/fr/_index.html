@@ -1,7 +1,8 @@
 ---
-title: >
-  Accueil
+title: "Accueil"
 breadcrumb_title: "Accueil"
+breadcrumbs:
+  - title: "Accueil"
 url: "/"
 
 full_width: true
@@ -18,11 +19,11 @@ translation_key: communication-website-page-ccc10894-4334-42bb-b97a-78019e655cb5
 bodyclass: 
 
 children:
-  - /tous-les-mots/
-  - /actualites/
-  - /equipe/
-  - /organisations/
-  - /les-mots-des-parcours/
+  - "content/fr/pages/tous-les-mots/_index.html"
+  - "content/fr/posts/_index.html"
+  - "content/fr/persons/_index.html"
+  - "content/fr/organizations/_index.html"
+  - "content/fr/pages/les-mots-des-parcours/_index.html"
 meta_description: >
   
 description: >
@@ -81,57 +82,31 @@ contents:
       
     position: 1
     data:
-      page: /les-mots-des-parcours/
+      page: 
+        path: "/les-mots-des-parcours/"
+        slug: "les-mots-des-parcours"
+        file: "content/fr/pages/les-mots-des-parcours/_index.html"
       show_main_description: true
       show_descriptions: true
       show_images: true
       layout: cards
       pages:
-        - page: "/les-mots-des-parcours/tronc-commun/"
-          slug: "/les-mots-des-parcours/tronc-commun/"
-        - page: "/les-mots-des-parcours/strategie-de-communication-numerique-design-dexperiences/"
-          slug: "/les-mots-des-parcours/strategie-de-communication-numerique-design-dexperiences/"
-        - page: "/les-mots-des-parcours/creation-numerique/"
-          slug: "/les-mots-des-parcours/creation-numerique/"
-        - page: "/les-mots-des-parcours/developpement-web-et-dispositifs-interactifs/"
-          slug: "/les-mots-des-parcours/developpement-web-et-dispositifs-interactifs/"
-      elements:
-        - title: >-
-            Tronc commun
-          summary: >-
-            
+        - path: "/les-mots-des-parcours/tronc-commun/"
           slug: "tronc-commun"
-          path: "/les-mots-des-parcours/tronc-commun/"
-          url: "/les-mots-des-parcours/tronc-commun/"
-          bodyclass: >-
-            
-        - title: >-
-            Stratégie de communication numérique &amp; design d’expériences
-          summary: >-
-            
+          file: "content/fr/pages/les-mots-des-parcours/tronc-commun/_index.html"
+          external: false
+        - path: "/les-mots-des-parcours/strategie-de-communication-numerique-design-dexperiences/"
           slug: "strategie-de-communication-numerique-design-dexperiences"
-          path: "/les-mots-des-parcours/strategie-de-communication-numerique-design-dexperiences/"
-          url: "/les-mots-des-parcours/strategie-de-communication-numerique-design-dexperiences/"
-          bodyclass: >-
-            
-        - title: >-
-            Création numérique
-          summary: >-
-            
+          file: "content/fr/pages/les-mots-des-parcours/strategie-de-communication-numerique-design-dexperiences/_index.html"
+          external: false
+        - path: "/les-mots-des-parcours/creation-numerique/"
           slug: "creation-numerique"
-          path: "/les-mots-des-parcours/creation-numerique/"
-          url: "/les-mots-des-parcours/creation-numerique/"
-          bodyclass: >-
-            
-        - title: >-
-            Développement web et dispositifs interactifs
-          summary: >-
-            
+          file: "content/fr/pages/les-mots-des-parcours/creation-numerique/_index.html"
+          external: false
+        - path: "/les-mots-des-parcours/developpement-web-et-dispositifs-interactifs/"
           slug: "developpement-web-et-dispositifs-interactifs"
-          path: "/les-mots-des-parcours/developpement-web-et-dispositifs-interactifs/"
-          url: "/les-mots-des-parcours/developpement-web-et-dispositifs-interactifs/"
-          bodyclass: >-
-            
+          file: "content/fr/pages/les-mots-des-parcours/developpement-web-et-dispositifs-interactifs/_index.html"
+          external: false
 
 
 
