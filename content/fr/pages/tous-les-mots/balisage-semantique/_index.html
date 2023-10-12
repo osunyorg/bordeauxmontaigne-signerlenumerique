@@ -16,7 +16,7 @@ full_width: false
 design:
   full_width: false
   toc:
-    present: false
+    present: true
     offcanvas: false
 
 position: 3
@@ -38,14 +38,19 @@ description_short: >
 header_text: >-
   
 contents_reading_time:
-  seconds: 22
+  seconds: 23
   text: >-
     moins d'une minute
 contents:
+  - kind: heading
+    title: >-
+      Définition
+    position: 0
+    level: 2
   - kind: block
     template: chapter
     title: >-
-      Définition
+      
     position: 0
     data:
       layout: no_background
@@ -64,11 +69,17 @@ contents:
 
 
 
+
+  - kind: heading
+    title: >-
+      Mot signé
+    position: 1
+    level: 2
   - kind: block
     template: video
     title: >-
-      Le mot signé
-    position: 1
+      
+    position: 0
     data:
       url: >-
         https://www.youtube.com/watch?v=tGTPeVQIdAY
@@ -77,9 +88,22 @@ contents:
         
 
       video_iframe: >-
-        <iframe class="youtube" loading="lazy" src="https://www.youtube.com/embed/tGTPeVQIdAY" title=""></iframe>
+        <iframe class="youtube" loading="lazy" src="https://www.youtube.com/embed/tGTPeVQIdAY" title="Video"></iframe>
+      video: 
+        platform: "youtube"
+        identifier: "tGTPeVQIdAY"
+        title: "Video"
+        poster: >-
+          https://img.youtube.com/vi/tGTPeVQIdAY/hqdefault.jpg
+        embed: >-
+          https://www.youtube.com/embed/tGTPeVQIdAY
+        embed_with_defaults: >-
+          https://www.youtube.com/embed/tGTPeVQIdAY?autoplay=1&amp;modestbranding=1&amp;rel=0
+        iframe: >-
+          <iframe class="youtube" loading="lazy" src="https://www.youtube.com/embed/tGTPeVQIdAY" title="Video"></iframe>
       transcription: >-
         
+
 
 
 
