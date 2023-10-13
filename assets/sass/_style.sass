@@ -22,7 +22,7 @@ header#document-header
     color: black
 
 .hero .content figure img 
-    width: 0
+    display: none
 
 .block-pages .cards 
     article .media
@@ -30,9 +30,12 @@ header#document-header
         max-width: px2rem(60)
     .card .more::after
         display: none
-        
+
 .block-pages--cards .card .more 
     justify-content: flex-end
+    
+.block-pages .grid article .media
+    display: none
 
 .document-content
     margin-top: 1rem
