@@ -58,15 +58,23 @@ contents_reading_time:
   text: >-
     moins d'une minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Définition
-    slug: "definition"
-    position: 1
-    rank: 2
+    slug: >-
+      definition
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -87,16 +95,23 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Mot signé
-    slug: "mot-signe"
-    position: 2
-    rank: 2
+    slug: >-
+      mot-signe
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: video
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -128,7 +143,6 @@ contents:
           https://www.youtube.com/embed/hf4umVqK8hE?autoplay=1&amp;modestbranding=1&amp;rel=0
         iframe: >-
           <iframe class="youtube" loading="lazy" src="https://www.youtube.com/embed/hf4umVqK8hE" title="Video"></iframe>
-
 
 
 
