@@ -5,6 +5,7 @@ items:
   target: "/tous-les-mots/"
   kind: page
   children: []
+  file: content/fr/pages/tous-les-mots/_index.html
 - title: Les mots des parcours
   target: "/les-mots-des-parcours/"
   kind: page
@@ -13,20 +14,26 @@ items:
     target: "/les-mots-des-parcours/tronc-commun/"
     kind: page
     children: []
+    file: content/fr/pages/les-mots-des-parcours/tronc-commun/_index.html
   - title: Stratégie de communication numérique & design d’expériences
     target: "/les-mots-des-parcours/strategie-de-communication-numerique-design-dexperiences/"
     kind: page
     children: []
+    file: content/fr/pages/les-mots-des-parcours/strategie-de-communication-numerique-design-dexperiences/_index.html
   - title: Création numérique
     target: "/les-mots-des-parcours/creation-numerique/"
     kind: page
     children: []
+    file: content/fr/pages/les-mots-des-parcours/creation-numerique/_index.html
   - title: Développement web et dispositifs interactifs
     target: "/les-mots-des-parcours/developpement-web-et-dispositifs-interactifs/"
     kind: page
     children: []
+    file: content/fr/pages/les-mots-des-parcours/developpement-web-et-dispositifs-interactifs/_index.html
+  file: content/fr/pages/les-mots-des-parcours/_index.html
 - title: À propos
   target: "/a-propos/"
   kind: page
   children: []
+  file: content/fr/pages/a-propos/_index.html
 
