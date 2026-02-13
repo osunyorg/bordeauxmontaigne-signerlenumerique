@@ -2,52 +2,70 @@
 title: Menu principal
 items:
 - title: Tous les mots
+  slug: tous-les-mots
   target: "/tous-les-mots/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/tous-les-mots"
   file: content/fr/pages/tous-les-mots/_index.html
 - title: Les mots des parcours
+  slug: les-mots-des-parcours
   target: "/les-mots-des-parcours/"
   kind: page
   new_tab: false
   children:
   - title: Tronc commun
+    slug: tronc-commun
     target: "/les-mots-des-parcours/tronc-commun/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/les-mots-des-parcours/tronc-commun"
     file: content/fr/pages/les-mots-des-parcours/tronc-commun/_index.html
   - title: Stratégie de communication numérique & design d’expériences
+    slug: strategie-de-communication-numerique-design-d-experiences
     target: "/les-mots-des-parcours/strategie-de-communication-numerique-design-dexperiences/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/les-mots-des-parcours/strategie-de-communication-numerique-design-dexperiences"
     file: content/fr/pages/les-mots-des-parcours/strategie-de-communication-numerique-design-dexperiences/_index.html
   - title: Création numérique
+    slug: creation-numerique
     target: "/les-mots-des-parcours/creation-numerique/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/les-mots-des-parcours/creation-numerique"
     file: content/fr/pages/les-mots-des-parcours/creation-numerique/_index.html
   - title: Développement web et dispositifs interactifs
+    slug: developpement-web-et-dispositifs-interactifs
     target: "/les-mots-des-parcours/developpement-web-et-dispositifs-interactifs/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/les-mots-des-parcours/developpement-web-et-dispositifs-interactifs"
     file: content/fr/pages/les-mots-des-parcours/developpement-web-et-dispositifs-interactifs/_index.html
+  descendants_targets:
+  - "/les-mots-des-parcours/creation-numerique/"
+  - "/les-mots-des-parcours/developpement-web-et-dispositifs-interactifs/"
+  - "/les-mots-des-parcours/strategie-de-communication-numerique-design-dexperiences/"
+  - "/les-mots-des-parcours/tronc-commun/"
   path: "/pages/les-mots-des-parcours"
   file: content/fr/pages/les-mots-des-parcours/_index.html
 - title: À propos
+  slug: a-propos
   target: "/a-propos/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
 
