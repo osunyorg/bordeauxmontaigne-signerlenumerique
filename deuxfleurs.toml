@@ -13,3 +13,152 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/front/index.html"
+to = "/tous-les-mots/front/"
+
+[[redirects]]
+from = "/les-mots-des-parcours/creation-numerique/resolution/index.html"
+to = "/tous-les-mots/resolution/"
+
+[[redirects]]
+from = "/boucle/index.html"
+to = "/tous-les-mots/boucle/"
+
+[[redirects]]
+from = "/les-mots-des-parcours/creation-numerique/charte-graphique/index.html"
+to = "/tous-les-mots/charte-graphique/"
+
+[[redirects]]
+from = "/pictogramme/index.html"
+to = "/tous-les-mots/pictogramme/"
+
+[[redirects]]
+from = "/les-acronymes/html/index.html"
+to = "/tous-les-mots/html/"
+
+[[redirects]]
+from = "/les-mots-des-parcours/strategie-de-communication-numerique-design-dexperiences/entreprise/index.html"
+to = "/tous-les-mots/entreprise/"
+
+[[redirects]]
+from = "/les-mots/front/index.html"
+to = "/tous-les-mots/front/"
+
+[[redirects]]
+from = "/les-mots-des-parcours/developpement-web-et-dispositifs-interactifs/reseau/index.html"
+to = "/tous-les-mots/reseau/"
+
+[[redirects]]
+from = "/les-mots-des-parcours/developpement-web-et-dispositifs-interactifs/intelligence-artificielle/index.html"
+to = "/tous-les-mots/intelligence-artificielle/"
+
+[[redirects]]
+from = "/les-mots-des-parcours/strategie-de-communication-numerique-design-dexperiences/infographie/index.html"
+to = "/tous-les-mots/infographie/"
+
+[[redirects]]
+from = "/les-mots/boucle/index.html"
+to = "/tous-les-mots/boucle/"
+
+[[redirects]]
+from = "/les-mots-des-parcours/creation-numerique/pictogramme/index.html"
+to = "/tous-les-mots/pictogramme/"
+
+[[redirects]]
+from = "/les-mots-des-parcours/creation-numerique/pixel/index.html"
+to = "/tous-les-mots/pixel/"
+
+[[redirects]]
+from = "/les-thematiques/index.html"
+to = "/les-mots-des-parcours/"
+
+[[redirects]]
+from = "/les-mots/css/index.html"
+to = "/tous-les-mots/css/"
+
+[[redirects]]
+from = "/les-mots/js/index.html"
+to = "/tous-les-mots/js/"
+
+[[redirects]]
+from = "/les-mots/balisage-semantique/index.html"
+to = "/tous-les-mots/balisage-semantique/"
+
+[[redirects]]
+from = "/html/index.html"
+to = "/tous-les-mots/html/"
+
+[[redirects]]
+from = "/les-mots-des-parcours/strategie-de-communication-numerique-design-dexperiences/innover/index.html"
+to = "/tous-les-mots/innover/"
+
+[[redirects]]
+from = "/strategie-de-communication-numerique-design-dexperiences/index.html"
+to = "/les-mots-des-parcours/strategie-de-communication-numerique-design-dexperiences/"
+
+[[redirects]]
+from = "/les-mots-des-parcours/creation-numerique/calques/index.html"
+to = "/tous-les-mots/calques/"
+
+[[redirects]]
+from = "/tronc-commun/index.html"
+to = "/les-mots-des-parcours/tronc-commun/"
+
+[[redirects]]
+from = "/les-thematiques/les-mots-du-dev/index.html"
+to = "/les-mots-des-parcours/developpement-web-et-dispositifs-interactifs/"
+
+[[redirects]]
+from = "/les-acronymes/js/index.html"
+to = "/tous-les-mots/js/"
+
+[[redirects]]
+from = "/les-mots/directive/index.html"
+to = "/tous-les-mots/directive/"
+
+[[redirects]]
+from = "/les-mots/condition/index.html"
+to = "/tous-les-mots/condition/"
+
+[[redirects]]
+from = "/les-mots-des-parcours/strategie-de-communication-numerique-design-dexperiences/personae/index.html"
+to = "/tous-les-mots/personae/"
+
+[[redirects]]
+from = "/les-thematiques/developpement-web-et-dispositifs-interactifs/index.html"
+to = "/les-mots-des-parcours/developpement-web-et-dispositifs-interactifs/"
+
+[[redirects]]
+from = "/les-mots/html/index.html"
+to = "/tous-les-mots/html/"
+
+[[redirects]]
+from = "/condition/index.html"
+to = "/tous-les-mots/condition/"
+
+[[redirects]]
+from = "/les-acronymes/css/index.html"
+to = "/tous-les-mots/css/"
+
+[[redirects]]
+from = "/creation-numerique/index.html"
+to = "/les-mots-des-parcours/creation-numerique/"
+
+[[redirects]]
+from = "/directive/index.html"
+to = "/tous-les-mots/directive/"
+
+[[redirects]]
+from = "/les-mots-des-parcours/developpement-web-et-dispositifs-interactifs/developpement/index.html"
+to = "/tous-les-mots/developpement/"
+
+[[redirects]]
+from = "/les-mots/back/index.html"
+to = "/tous-les-mots/back/"
+
+[[redirects]]
+from = "/les-mots/index.html"
+to = "/tous-les-mots/"
+
